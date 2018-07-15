@@ -11,7 +11,7 @@ Platzom es un idioma inventado para el Curso de Fundamentos de Javascript
 ## Instalación
 
 ```
-npm install platzom
+npm i @saulmoralespa/platzom
 ```
 
 ## Uso
